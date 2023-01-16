@@ -1,0 +1,1 @@
+Print("The LORD rebuke thee Satan" * 100_000)

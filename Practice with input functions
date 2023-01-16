@@ -1,0 +1,3 @@
+age = input("should you get born again if your not? type in your age. ")
+print("at " + age, "you should as you have no guarntee of tomorow!")
+print("Boast not thyself of to morrow;for thou knowest not what a day may bring forth. \nProverbs 27:1")

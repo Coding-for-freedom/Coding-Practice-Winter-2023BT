@@ -1,0 +1,5 @@
+Question = input("Is Noah a good teacher? yes or no ")
+if(Question == "yes"):
+    print("correct")
+else:
+    print("incorrect")
